@@ -1,0 +1,11 @@
+# Environment variables (sensitive data)
+.env
+
+# Binary
+server.exe
+*.exe
+*.dll
+
+# IDE
+.vscode
+.idea
